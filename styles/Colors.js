@@ -1,0 +1,30 @@
+export const Colors = {
+  light: {
+    background: '#FBFBFB',
+    text: '#171617',
+    display: '#f2f2f4',
+    keypad: '#DBDBDB',
+    button: '#F6F5F2',
+    buttonText: '#171617',
+    operatorButton: '#024CAA',
+    operatorButtonText: '#FBFBFB',
+    headerBackground: '#B7B7B7',
+    headerText: '#000000',
+    modalBackground: 'white',
+    modalText: 'black',
+  },
+  dark: {
+    background: '#2A2D3E',
+    text: '#FBFBFB',
+    display: '#2A2D3E',
+    keypad: '#171617',
+    button: '#3E3F4B',
+    buttonText: '#FBFBFB',
+    operatorButton: '#024CAA',
+    operatorButtonText: '#FBFBFB',
+    headerBackground: '#171617',
+    headerText: '#FBFBFB',
+    modalBackground: '#2A2D3E',
+    modalText: '#FBFBFB',
+  }
+};
